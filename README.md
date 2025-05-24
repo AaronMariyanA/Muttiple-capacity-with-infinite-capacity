@@ -1,6 +1,7 @@
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
-# Name : Aarn Mariyan A
-# Reg : 212224040004
+# Name : Aaron Mariyan A
+# Reg No : 212224040004
+# Date : 18/4/25
 
 
 ## Aim :
